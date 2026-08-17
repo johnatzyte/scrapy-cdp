@@ -1,4 +1,4 @@
-![scrapy-cdp — connect remote browsers to Scrapy](docs/banner.png)
+![scrapy-cdp — connect remote browsers to Scrapy](https://raw.githubusercontent.com/johnatzyte/scrapy-cdp/main/docs/banner.png)
 
 # scrapy-cdp
 
