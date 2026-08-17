@@ -1,3 +1,5 @@
+![scrapy-cdp — connect remote browsers to Scrapy](docs/banner.png)
+
 # scrapy-cdp
 
 `scrapy-cdp` is a small CDP renderer for Scrapy. It connects to an
